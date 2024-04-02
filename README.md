@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **AWS, Git, Github, Docker, Kubernetes, Ansible,Terraform,**
+- 💬 Ask me about **AWS, Git, Github, Docker, Kubernetes, Ansible, Terraform, SonarQube, Trivy**
 
 - 📫 How to reach me **ganeshsnp987@gmail.com**
 

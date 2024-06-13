@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ganeshsnp987@gmail.com**
 
-- My Portfolio "https://ganeshsnp987.github.io/my-portfolio/"
+- My Portfolio **https://ganeshsnp987.github.io/my-portfolio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

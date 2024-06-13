@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Sanap</h1>
-<h3 align="center">I'm passionate about automating and streamlining development and operations processes to build efficient and scalable systems. With a strong background in DevOps practices, cloud technologies, and CI/CD pipelines, I help teams deliver software faster and more reliably.</h3>
+<h3 align="center">I'm passionate about automating and streamlining development and operations processes to build efficient and scalable systems. With a strong background in DevSecOps practices, cloud technologies, and CI/CD pipelines, I help teams deliver software faster and more reliably.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshsnp987&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsnp987" /> </p>
 

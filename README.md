@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshsnp987" alt="ganeshsnp987" /></a> </p>
 
-- 🔭 I’m currently working on **Devops projects**
+- 🔭 I’m currently working on **DevSecOps projects**
 
 - 🌱 I’m currently learning **Python for DevOps**
 
@@ -13,9 +13,11 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **AWS, Git, Github, Docker, Kubernetes, Ansible, Terraform, SonarQube, Trivy**
+- 💬 Ask me about **AWS Cloud, Git, Github, Docker, Dockor-scout, Kubernetes, Ansible, Jenkins, Terraform, SonarQube, Trivy, Prometheus, Grafana, Nexus**
 
 - 📫 How to reach me **ganeshsnp987@gmail.com**
+
+- My Portfolio "https://ganeshsnp987.github.io/my-portfolio/"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
